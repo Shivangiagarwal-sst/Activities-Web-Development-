@@ -1,2 +1,2 @@
-# Activities-Web-Development-
+# Activities-Web-Development
 All Class Assignments.
